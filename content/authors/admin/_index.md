@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: fa-envelelope
     url: 'xingguangzong@nimte.ac.cn'
     label: E-mail Me
   - icon: brands/google-scholar
