@@ -183,4 +183,4 @@ education:
 
 ## Biography
 
-Guangzong Xing is an associate professor of materials science at Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciencs, China. His research interests include investigate the physical properties of thermoelectric materials and permanent magnets using first-principles calculations and machine learnig techniques. 
+Guangzong Xing is an associate professor of materials science at Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciencs, China. His research interests include the development of codes to investigate the physical properties of thermoelectric materials and permanent magnets using first-principles calculations and machine learnig techniques. 
