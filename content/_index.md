@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: Contact
+  - block: contact
     id: contact
     content:
       title: Contact
@@ -43,7 +43,7 @@ sections:
         postcode: 315201
         country: China
         country_code: CN
-        
+
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
