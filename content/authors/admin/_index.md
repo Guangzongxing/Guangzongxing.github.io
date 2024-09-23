@@ -10,8 +10,8 @@ first_name: Guangzong
 last_name: Xing
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -39,10 +39,6 @@ profiles:
     url: https://www.linkedin.com/in/guangzong-xing-b6b5721a1/
   # - icon: brands/github
   #   url: https://github.com/gcushen
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
