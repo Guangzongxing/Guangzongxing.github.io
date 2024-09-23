@@ -107,7 +107,7 @@ work:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - Position: Postdoctoral Researcher
-    company_name: Okinawa Institute of Science and Technology Graduate University
+    company_name: Okinawa Institute of Science and Technology Graduate University (OIST)
     company_url: ''
     company_logo: ''
     date_start: 2010-03-01
