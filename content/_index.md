@@ -30,19 +30,19 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      email: xingguangzong@nimte.ac.cn
-      address:
-        street: 1219 West Zhongguan Road, Zhenhai District
-        city: Ningbo
-        region: Zhejiang
-        postcode: 315201
-        country: China
-        country_code: CN
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     email: xingguangzong@nimte.ac.cn
+  #     address:
+  #       street: 1219 West Zhongguan Road, Zhenhai District
+  #       city: Ningbo
+  #       region: Zhejiang
+  #       postcode: 315201
+  #       country: China
+  #       country_code: CN
 
   # - block: markdown
   #   content:
