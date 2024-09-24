@@ -1,8 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: High-throughput Calculation of Transverse Transport Properties in Doped
-Heusler Compounds
+title: High-throughput Calculation of Transverse Transport Properties in Doped Heusler Compounds
 event: The 2023 JSAP Autumn Meeting
 event_url: ''
 location: Kumamoto Japan
