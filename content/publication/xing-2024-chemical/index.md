@@ -3,7 +3,7 @@ title: Chemical-substitution-driven giant anomalous Hall and Nernst effects in m
 subtitle: ''
 summary: ''
 authors:
-- Guangzong Xing
+- admin
 - Keisuke Masuda
 - Terumasa Tadano
 - Yoshio Miura
