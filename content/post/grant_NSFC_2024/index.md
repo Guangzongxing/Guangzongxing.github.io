@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-My proposal entitled ‘Development of a Magnon Free Energy Evaluation Algorithm at Finite Temperatures and Its Application in the Design of ThMn$_{12}$-Type Permanent Magnets’ has been selected by the National Natural Science Foundation of China. I will conduct fundamental research in developing code to calculate the magnon and phonon free energies of permanent magnets at finite temperatures.
+My proposal entitled ‘Development of Magnon Free Energy Evaluation Algorithm at Finite Temperatures and Its Application in the Design of ThMn$_{12}$-Type Permanent Magnets’ has been selected by the National Natural Science Foundation of China. I will conduct fundamental research in developing code to calculate the magnon and phonon free energies of permanent magnets at finite temperatures.
