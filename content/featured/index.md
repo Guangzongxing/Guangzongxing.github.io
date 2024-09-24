@@ -1,6 +1,6 @@
 ---
 title: ''
-date: 2024-09-24
+date: 2023-06-01
 type: landing
 
 sections:
@@ -11,7 +11,7 @@ sections:
       filters:
         folders:
           - publication
-          featured_only: true
+        featured_only: true
     design:
       columns: '2'
       view: compact
@@ -26,8 +26,8 @@ sections:
       columns: '2'
       view: citation
 
+# Optional header image (relative to `static/media/` folder).
 header:
   caption: ''
   image: ''
 ---
-        
