@@ -27,6 +27,10 @@ organizations:
   - name: Ningbo Institute of Materials Technology and Engineering
     url: https://www.nimte.ac.cn/
 
+# Short bio (displayed in user profile at end of posts)
+# bio: My research interests include development of computational methods and softwares for predicting thermal properties of solids, and application of machine-learning methods to material science study
+
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -37,8 +41,8 @@ profiles:
     url: https://scholar.google.com/citations?user=xId_JPoAAAAJ&hl=en
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/guangzong-xing-b6b5721a1/
-  # - icon: brands/github
-  #   url: https://github.com/gcushen
+  - icon: brands/github
+    url: https://github.com/Guangzongxing
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
@@ -185,3 +189,4 @@ work:
 ## Biography
 
 Guangzong Xing is an associate professor of materials science at Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciencs, China. His research interests include the development of codes to investigate the physical properties of thermoelectric materials and permanent magnets using first-principles calculations and machine learnig techniques. 
+{style="text-align: justify;"}
