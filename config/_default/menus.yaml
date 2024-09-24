@@ -11,7 +11,7 @@ main:
     url: 'featured'
     weight: 50
   - name: Talks
-    url: /#talks
+    url: /event
     weight: 60
   - name: News
     url: /#news
