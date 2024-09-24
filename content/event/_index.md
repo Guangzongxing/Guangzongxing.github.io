@@ -6,7 +6,7 @@ cms_exclude: true
 # View
 desigh:
   columns: '2'
-  view: list
+  view: card
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
