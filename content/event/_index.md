@@ -4,7 +4,9 @@ cms_exclude: true
 #url: talk
 
 # View
-view: card
+desigh:
+  columns: '2'
+  view: list
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
