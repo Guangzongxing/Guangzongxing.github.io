@@ -4,9 +4,10 @@ cms_exclude: true
 #url: talk
 
 # View
-desigh:
-  columns: '2'
-  view: card
+# desigh:
+#   columns: '2'
+#   view: card
+view: card
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
