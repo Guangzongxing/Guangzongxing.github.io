@@ -1,5 +1,5 @@
 ---
-title: First-principles prediction of phase transition of YCo 5 from self-consistent
+title: First-principles prediction of phase transition of YCo$_5$ from self-consistent
   phonon calculations
 authors:
 - Guangzong Xing
