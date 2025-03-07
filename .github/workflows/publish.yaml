@@ -31,6 +31,12 @@ jobs:
       with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
+    - name: Override upload-artifact version
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: dummy
+        path: /dev/null
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
