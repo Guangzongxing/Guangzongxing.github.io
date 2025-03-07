@@ -6,8 +6,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2024-08-23T13:44:57+09:00
-lastmod: 2024-09-24T13:44:57+09:00
+date: 2025-03-07T13:44:57+09:00
+lastmod: 2025-03-07T13:44:57+09:00
 featured: false
 draft: false
 math: true
