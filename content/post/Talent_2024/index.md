@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-I was selected as a ‘Young Innovative Talent’ by the 2024 Ningbo Yongjiang Talent Programme for a period of five years. I will conduct fundamental research on discovering new permanent magnets using first-principles calculations and machine learning techniques.”
+I was selected as a ‘Young Innovative Talent’ by the 2024 Ningbo Yongjiang Talent Programme for a period of five years. I will conduct fundamental research on discovering new permanent magnets using first-principles calculations and machine learning techniques.
